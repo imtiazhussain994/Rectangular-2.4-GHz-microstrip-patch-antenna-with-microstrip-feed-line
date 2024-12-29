@@ -1,1 +1,2 @@
 # Rectangular-2.4-GHz-microstrip-patch-antenna-with-microstrip-feed-line
+The antenna consists of a thin metallic patch (the radiating element) on a dielectric substrate (using FR4 material) backed by a ground plane. Therefore, to design a 2.4 GHz band Wi-Fi antenna there are several crucial factors: Substrate Material and Thickness, Patch Dimensions, Feed Line Dimensions Placement and Ground Plane Size, etc.
